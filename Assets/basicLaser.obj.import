@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/basicLaser.obj-33a785a503048750e82e7e942c28ad0d.mesh"
+
+[deps]
+
+files=[ "res://.import/basicLaser.obj-33a785a503048750e82e7e942c28ad0d.mesh" ]
+
+source_file="res://Assets/basicLaser.obj"
+dest_files=[ "res://.import/basicLaser.obj-33a785a503048750e82e7e942c28ad0d.mesh", "res://.import/basicLaser.obj-33a785a503048750e82e7e942c28ad0d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
